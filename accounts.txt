@@ -1,0 +1,4 @@
+1003 Tom 300 Debit
+1002 Roma 7000 Debit
+1001 Tim 7000 3000 Credit
+1000 Anna 1000 5000 Credit
